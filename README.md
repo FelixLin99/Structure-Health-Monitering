@@ -95,7 +95,6 @@ If you need an EN version, feel free to contact me.
 <div align=center>
     <img src="https://github.com/FelixLin99/Structure-Health-Monitering/raw/main/tmp/img/correlation_analysis.jpg" height=300>
     </div> 
-<br>
     
     
     

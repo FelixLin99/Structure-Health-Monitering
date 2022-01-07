@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="https://github.com/FelixLin99/Structure-Health-Monitering/raw/main/tmp/img/Architecture.jpg" 
-         width="90%">
+         width="91%">
 </p>
 
 <p align="center">"<i>Look how I preprocess and analyze engineering data! </i>"</p>
